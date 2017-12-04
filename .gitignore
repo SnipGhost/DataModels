@@ -2,4 +2,4 @@
 *.laccdb
 *.bak
 [Bb]in/
-.DS_Store
+*.DS_Store
