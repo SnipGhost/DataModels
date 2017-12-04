@@ -1,0 +1,5 @@
+~$*
+*.laccdb
+*.bak
+[Bb]in/
+.DS_Store
