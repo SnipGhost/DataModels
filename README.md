@@ -5,11 +5,11 @@
 
 ### Инфологическая модель макета АИС
 
-![infological](img/infological.png)
+![infological](img/Infological.png)
 
 ### Даталогическая модель макета АИС
 
-![datalogical](img/datalogical.png)
+![datalogical](img/Datalogical.png)
 
 ### Схемы для ДЗ №2
 
