@@ -3,3 +3,5 @@
 *.bak
 [Bb]in/
 *.DS_Store
+*Thumbs.db
+
